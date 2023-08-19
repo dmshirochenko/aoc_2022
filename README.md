@@ -9,11 +9,11 @@
 
 The challenge? Simulate the falling sand and find out how many units of sand could come to rest without falling into the abyss below. 🎮 It's not just about calculating numbers; it's about painting a picture with code!
 
-![WaterFall](waterfall.png)
+![WaterFall](Waterfall_From_Console.png)
 
 This delightful task made me feel like an explorer, a geologist, and an artist, all at once. 🎨 Care to venture into the cave with me? The code's right there, waiting for you.
 
-[Check out the code for Day 14](./day_14_task.py)
+[Check out the code for Day 14](./day_14_tasks.py)
 
 
 
